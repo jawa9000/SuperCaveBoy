@@ -1,4 +1,4 @@
-﻿# SuperCaveBoy
+# Super Cave Boy
 
 ##For and inspired by
 Jimmy and Shweta Immel
