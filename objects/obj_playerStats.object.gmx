@@ -181,7 +181,7 @@ if (gamepad_is_connected(0)) { // if game controller is connected
     //str = "Press [Space] to Play";
     start_message = "Press [Space] to Play";
     option_message = "Press [Alt] for Controls";
-    controls_message = "#Move: left/right arrow keys#Jump: up arrow key#Enter door: down arrow key#Restart room: R#Quit: ESC";
+    controls_message = "#Move: left/right arrow keys#Jump: up arrow key#Enter door: down arrow key#Restart room: R";
     option_position = 60;
     controls_position = option_position + 176;
     credts_message = "Press [Ctrl] to see credits";
