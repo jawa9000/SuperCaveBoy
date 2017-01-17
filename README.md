@@ -16,8 +16,6 @@ Enter door: down arrow key
 
 Restart room: R
 
-Quit: ESC
-
 ## Gamepad
 Move: left stick
 
@@ -27,6 +25,10 @@ Restart level: select
 
 # Screenshots
 <img src="https://github.com/jawa9000/SuperCaveBoy/blob/master/Screenshots/menu.png?raw=true" />
+<img src="https://github.com/jawa9000/SuperCaveBoy/blob/master/Screenshots/controls.png?raw=true" />
+<img src="https://github.com/jawa9000/SuperCaveBoy/blob/master/Screenshots/in-action01.png?raw=true" />
+<img src="https://github.com/jawa9000/SuperCaveBoy/blob/master/Screenshots/in-action02.png?raw=true" />
+
 
 
 # Known Issues
