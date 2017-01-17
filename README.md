@@ -26,7 +26,7 @@ Jump: right-shoulder button
 Restart level: select
 
 # Screenshots
-!(/blob/master/Screenshots/menu.png)
+!(/Screenshots/menu.png)
 
 
 # Known Issues
