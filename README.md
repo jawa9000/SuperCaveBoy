@@ -25,6 +25,9 @@ Jump: right-shoulder button
 
 Restart level: select
 
+# Screenshots
+![https://github.com/jawa9000/SuperCaveBoy/blob/master/Screenshots/menu.png?raw=true]
+
 
 # Known Issues
 Sometimes when the player jumps into a corner (head first), it becomes stuck and can't break free. That is why I included a feature to restart the level (see above).
