@@ -26,7 +26,7 @@ Jump: right-shoulder button
 Restart level: select
 
 # Screenshots
-![https://github.com/jawa9000/SuperCaveBoy/blob/master/Screenshots/menu.png?raw=true]
+!(https://github.com/jawa9000/SuperCaveBoy/blob/master/Screenshots/menu.png?raw=true)
 
 
 # Known Issues
